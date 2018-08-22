@@ -1,2 +1,2 @@
-# flag
-FLAG interview issues and practices
+# what's your point
+hehe
